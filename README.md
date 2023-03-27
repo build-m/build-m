@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [MERN-STACK PROJECTS](https://github.com/build-m/MERN-BLOG)
 
-- 🌱 I’m currently learning **machine learning,AI-frameworks**
+- 🌱 I’m currently learning **machine learning & AI-frameworks**
 
 - 👨‍💻 All of my projects are available at [https://suraf-portifolio.netlify.app](https://suraf-portifolio.netlify.app)
 
