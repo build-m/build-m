@@ -19,8 +19,8 @@
 <p align="left">
 <a href="https://twitter.com/build-m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="build-m" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/build-m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="build-m" height="30" width="40" /></a>
-<a href="mailto:godolyas123@gmail.com.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/78304246/228065374-b59a5c31-93c5-431e-b6ba-90d1763ac510.png" alt="gmail" height="50" width="50" /></a>
-<a href="https://t.me/s_Elyon7" target="blank"><img align="center" src="https://user-images.githubusercontent.com/78304246/228066475-0b8a28f7-ebbe-4748-98eb-d54e30008120.png" alt="telegram" height=40" width="40" /></a>
+<a href="mailto:godolyas123@gmail.com.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/78304246/228065374-b59a5c31-93c5-431e-b6ba-90d1763ac510.png" alt="gmail" height="30" width="40" /></a>
+<a href="https://t.me/s_Elyon7" target="blank"><img align="center" src="https://user-images.githubusercontent.com/78304246/228066475-0b8a28f7-ebbe-4748-98eb-d54e30008120.png" alt="telegram" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
