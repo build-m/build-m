@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **machine learning & AI-frameworks**
 
-- 👨‍💻 My projects are available at [https://suraf-portifolio.netlify.app](https://suraf-portifolio.netlify.app)
+- 👨‍💻 My projects are available at [https://suranahu.netlify.app](https://suranahu.netlify.app)
 
 - 💬 Ask me about **react, react-native, vanilla javascript, php, sql, mongodb...**
 
